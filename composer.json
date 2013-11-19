@@ -19,5 +19,6 @@
         "psr-0": {
             "Hybrid": "hybridauth/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
