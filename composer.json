@@ -1,14 +1,14 @@
 {
-    "name": "hitsend/hybridauth",
+    "name": "soapbox/hybridauth",
     "description": "hybridauth with yammer integration",
     "keywords": ["hybridauth", "login", "oauth", "social", "openid", "facebook", "google", "twitter", "yahoo"],
-    "homepage": "https://github.com/HitSend/hybridauth",
+    "homepage": "https://github.com/SoapBox/hybridauth",
     "type": "library",
     "license": "(MIT or GPL-3.0+)",
     "authors": [
         {
             "name": "Johnny Cao",
-            "email": "johnny@hitsend.ca"
+            "email": "johnny@soapboxhq.com"
         }
     ],
     "require": {
